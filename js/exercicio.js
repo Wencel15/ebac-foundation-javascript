@@ -58,14 +58,10 @@ console.log( true + true )
 console.log( typeof ( true + true ))
 // 10++ =
 var num1 = 10
-
 console.log( x = ++num1  )
 console.log( typeof ( ++num1 ))
-
 // 10-- =
-
 var num2 = 10
-
 console.log( --num2 )
 console.log( typeof ( --num2 ))
 // 1 & 1 =
