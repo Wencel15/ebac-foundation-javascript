@@ -54,7 +54,7 @@ if(formulario1)
         evento.preventDefault();
         evento.stopPropagation();
 
-        if( this.getAttribute('class').match(/'erro'/) ) {
+        if( this.getAttribute('class').match(erro) ) {
             return false;
         }
         
