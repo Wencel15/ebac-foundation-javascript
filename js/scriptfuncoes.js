@@ -46,7 +46,7 @@ function contagemRegressiva(numero){
 
 
  
-const formulario1 = document.getElementById('formulario-02');
+const formulario1 = document.getElementById('formulario-01');
 
 if(formulario1)
     formulario1.addEventListener('submit', function( evento ){
